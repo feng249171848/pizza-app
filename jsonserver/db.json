@@ -1,0 +1,123 @@
+{
+  "users": [
+    {
+      "email": "fsdf@1213",
+      "password": "999",
+      "confirmPassword": "999",
+      "id": 2
+    },
+    {
+      "email": "249171848@qq.com",
+      "password": "999",
+      "confirmPassword": "999",
+      "id": 3
+    },
+    {
+      "email": "666@rewrw",
+      "password": "666",
+      "confirmPassword": "666",
+      "id": 4
+    },
+    {
+      "email": "666@sdfsf",
+      "password": "666",
+      "confirmPassword": "666",
+      "id": 5
+    },
+    {
+      "email": "3333@12",
+      "password": "333",
+      "confirmPassword": "333",
+      "id": 6
+    },
+    {
+      "email": "test@test.com",
+      "password": "123",
+      "confirmPassword": "123",
+      "id": 7
+    },
+    {
+      "email": "sdf@fds.com",
+      "password": "123",
+      "confirmPassword": "123",
+      "id": 8
+    }
+  ],
+  "menu": [
+    {
+      "name": "榴莲pizza",
+      "description": "这是喜欢吃榴莲朋友的最佳选择",
+      "options": [
+        {
+          "size": 9,
+          "price": 38
+        },
+        {
+          "size": 12,
+          "price": 48
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "芝士pizza",
+      "description": "芝士杀手,浓浓的芝士丝, 食欲瞬间爆棚",
+      "options": [
+        {
+          "size": "9",
+          "price": "38"
+        },
+        {
+          "size": "12",
+          "price": "48"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "夏威夷pizza",
+      "description": "众多人的默认选择",
+      "options": [
+        {
+          "size": "9",
+          "price": "30"
+        },
+        {
+          "size": "12",
+          "price": "40"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "电风扇",
+      "description": "1发的",
+      "options": [
+        {
+          "size": "3",
+          "price": "3"
+        },
+        {
+          "size": "3",
+          "price": "3"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "实得分",
+      "description": "是",
+      "options": [
+        {
+          "size": "12",
+          "price": "131"
+        },
+        {
+          "size": "13",
+          "price": "134"
+        }
+      ],
+      "id": "0fdjzwo73gmj"
+    }
+  ]
+}
